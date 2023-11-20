@@ -4,7 +4,7 @@ import "./global.css";
 import 'react-toastify/dist/ReactToastify.css';
 import "./global.css";
 
-
+//peguei o trabalgo de ptac pq qdo eu tentava criar um projeto do zero tava dando varios erros
 export default function Home() {
   return (
     <div>
