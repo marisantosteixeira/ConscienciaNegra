@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Register users',
+  title: 'Consciência Negra',
   description: 'Project for class PTAC',
 }
 
